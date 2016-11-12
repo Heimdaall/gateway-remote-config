@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE846EEF",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 46.11471613853761,
+    "ref_longitude":  3.443213700768387,
+    "ref_altitude": 299,
+    "contact_email": "heimdaall@free.fr",
+    "description": "France"
+  }
+}
